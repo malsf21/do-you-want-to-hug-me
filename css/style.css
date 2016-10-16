@@ -1,0 +1,44 @@
+html, body{
+  height: 100%;
+  width: 100%:
+}
+
+body{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.title{
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 1em;
+}
+
+.sub-title{
+  font-weight: 500;
+  padding: 0.5em;
+}
+
+.section{
+  padding-top: 4em;
+  min-height:100%;
+}
+
+.section-primary{
+  color: white;
+  background-color: #7039A0;
+}
+
+.footer{
+  padding: 2em 0em 2em 0em;
+}
+
+.spacing-top{
+  padding-top:2em;
+}
+
+.icons-huge{
+  font-size: 15em;
+}
+.icons-huge > a{
+  color:white;
+}
